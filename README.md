@@ -6,6 +6,8 @@
 Consider checking my [Patreon](https://www.patreon.com/TakuDev) for more free widget and support on it.
 You can contribute on each project that it's show here.
 
+- https://github.com/jojo58fr/streamer-clock
+
 ### Copyright
 Copyright (c) 2020 Joachim Miens (contact@joachim-miens.com)
 All project is licensed under the MIT License.
