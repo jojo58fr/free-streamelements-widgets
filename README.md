@@ -7,8 +7,8 @@ Consider checking my [Patreon](https://www.patreon.com/TakuDev) for more free wi
 You can contribute on each project that it's show here.
 
 #### Streamer clock
-Source: https://github.com/jojo58fr/streamer-clock
-Lien d'installation: http://streamelements.com/dashboard/overlays/share/66b37b65b624f23d88a142fd
+- Source: https://github.com/jojo58fr/streamer-clock
+- Lien d'installation: http://streamelements.com/dashboard/overlays/share/66b37b65b624f23d88a142fd
 
 
 
